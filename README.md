@@ -1,2 +1,2 @@
 # kntl
-Lgi kayang
+   
